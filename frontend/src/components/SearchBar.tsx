@@ -29,6 +29,7 @@ const LOCATIONS = [
   { city: 'Delhi', state: 'Delhi', country: 'India' },
   { city: 'Lucknow', state: 'UttparPradesh', country: 'India' },
   { city: 'Noida', state: 'UttparPradesh', country: 'India' },
+  { city: 'Gr Noida', state: 'UttparPradesh', country: 'India' },
 ];
 
 const SearchBar = ({ onSearch, initialFilters }: SearchBarProps) => {
