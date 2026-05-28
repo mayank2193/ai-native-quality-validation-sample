@@ -28,6 +28,7 @@ const LOCATIONS = [
   { city: 'Ghaziabad', state: 'Uttar Pradesh', country: 'India' },
   { city: 'Delhi', state: 'Delhi', country: 'India' },
   { city: 'Lucknow', state: 'UttparPradesh', country: 'India' },
+  { city: 'Noida', state: 'UttparPradesh', country: 'India' },
 ];
 
 const SearchBar = ({ onSearch, initialFilters }: SearchBarProps) => {
